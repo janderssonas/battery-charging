@@ -1,6 +1,6 @@
 {
-  "name": "Fiido M1 Pro Battery Voltage",
-  "short_name": "M1 Pro Volt",
+  "name": "Fiido M1 Pro Batteri Nivå",
+  "short_name": "M1 Pro Batteri",
   "start_url": "/battery-charging/",
   "display": "standalone",
   "background_color": "#ffffff",
