@@ -1,6 +1,6 @@
 {
-  "name": "Battery Charge",
-  "short_name": "BCharge",
+  "name": "Fiido M1 Pro Battery Voltage",
+  "short_name": "M1 Pro Volt",
   "start_url": "/battery-charging/",
   "display": "standalone",
   "background_color": "#ffffff",
